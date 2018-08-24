@@ -8,4 +8,4 @@
 ## 前端
 
 ### css
-    * [css选择器](http://www.baidu.com)
+* [css选择器](http://www.baidu.com)
