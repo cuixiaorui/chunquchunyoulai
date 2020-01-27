@@ -37,3 +37,4 @@
 ## 读书
 - [小强升职记](https://github.com/cuixiaorui/chunquchunyoulai/issues/7) 
 - [程序员修炼之道 -- 从小工到专家](https://github.com/cuixiaorui/chunquchunyoulai/issues/5) 
+- [10x 程序员工作法](https://github.com/cuixiaorui/chunquchunyoulai/issues/19) 
