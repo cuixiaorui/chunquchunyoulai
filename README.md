@@ -32,3 +32,8 @@
 
 ### git
 - [git 大礼包：学完出师](https://juejin.im/post/5b7d30b4f265da4342235265)
+
+
+## 读书
+- [小强升职记](https://github.com/cuixiaorui/chunquchunyoulai/issues/7) 
+- [程序员修炼之道 -- 从小工到专家](https://github.com/cuixiaorui/chunquchunyoulai/issues/5) 
