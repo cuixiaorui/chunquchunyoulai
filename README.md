@@ -28,7 +28,6 @@
 
 - [2019 前端开发必备 VS Code 插件](https://github.com/cuixiaorui/chunquchunyoulai/blob/master/%E5%89%8D%E7%AB%AF/js/vscode/vscodeExtension.MD)
 
-## code
 
 ### git
 - [git 大礼包：学完出师](https://juejin.im/post/5b7d30b4f265da4342235265)
@@ -38,3 +37,4 @@
 - [小强升职记](https://github.com/cuixiaorui/chunquchunyoulai/issues/7) 
 - [程序员修炼之道 -- 从小工到专家](https://github.com/cuixiaorui/chunquchunyoulai/issues/5) 
 - [10x 程序员工作法](https://github.com/cuixiaorui/chunquchunyoulai/issues/19) 
+- [代码整洁之道](https://github.com/cuixiaorui/chunquchunyoulai/issues/21) 
