@@ -27,6 +27,7 @@
 ### VS Code
 
 - [2019 前端开发必备 VS Code 插件](https://github.com/cuixiaorui/chunquchunyoulai/blob/master/%E5%89%8D%E7%AB%AF/js/vscode/vscodeExtension.MD)
+- [vscode键盘侠养成记](https://juejin.im/post/5e770d47e51d4527151581fa)
 
 
 ### git
