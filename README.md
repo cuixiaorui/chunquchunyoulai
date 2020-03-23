@@ -38,3 +38,4 @@
 - [程序员修炼之道 -- 从小工到专家](https://github.com/cuixiaorui/chunquchunyoulai/issues/5) 
 - [10x 程序员工作法](https://github.com/cuixiaorui/chunquchunyoulai/issues/19) 
 - [代码整洁之道](https://github.com/cuixiaorui/chunquchunyoulai/issues/21) 
+- [实现模式](https://github.com/cuixiaorui/chunquchunyoulai/issues/22) 
